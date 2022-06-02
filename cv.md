@@ -23,3 +23,11 @@ function greetings(){
 }
 ```
 ***
+## Education
+* University: Irkutsk State University, Information Technology major
+ 
+***
+## Languages:
+* English - Pre-intermediate
+* Russian - Native
+* Chinese - 3 HSK
