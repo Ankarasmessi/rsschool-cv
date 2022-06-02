@@ -1,1 +1,1 @@
-# rsschool-cv
+https://Ankarasmessi.github.io/rsschool-cv/cv
