@@ -1,0 +1,12 @@
+body {
+    background-color: aquamarine;
+}
+ul {
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+    background-color: blueviolet;
+}
+p {
+    font-size: 50px;
+}
